@@ -1,7 +1,9 @@
 salom
+commit go test2
 konichuva
 second
 test hi
+good morning
 test 2 hi
 how it is going on
 
