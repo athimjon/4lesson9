@@ -1,4 +1,5 @@
 salom
+commit go test2
 second
 test hi
 test 2 hi
